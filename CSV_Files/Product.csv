@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price
+1,Smartphone,Electronics,15000
+2,Television,Electronics,25000
+3,Refrigerator,Appliances,30000
+4,Washing Machine,Appliances,20000
+5,Laptop,Electronics,40000
+6,Clothing,Apparel,1000
+7,Shoes,Apparel,1500
+8,Groceries,Food,500
+9,Home Decor,Home,2000
+10,Toys,Kids,800
+11,Earphones,Electronics,500
+12,Tablet,Electronics,12000
+13,Air Conditioner,Appliances,35000
+14,Vacuum Cleaner,Appliances,8000
+15,Desktop Computer,Electronics,45000
+16,T-Shirt,Apparel,300
+17,Jeans,Apparel,1200
+18,Fruits,Food,100
+19,Vegetables,Food,80
+20,Bedding,Home,2500
+21,Lamps,Home,1500
+22,Board Games,Kids,600
+23,Books,Kids,400
+24,Sports Equipment,Kids,2000
+25,Makeup,Beauty,2000
+26,Perfume,Beauty,1500
+27,Power Bank,Electronics,800
+28,Camera,Electronics,35000
+29,Printer,Electronics,10000
+30,Chair,Furniture,3000
+31,Table,Furniture,5000
+32,Paintings,Decor,4000
+33,Mirrors,Decor,2000
+34,Tools,Hardware,1500
+35,Gardening Supplies,Outdoors,1000
+36,Swimwear,Apparel,800
+37,Handbags,Apparel,2000
+38,Stationery,Office,300
+39,Candles,Home,400
+40,Dinnerware,Home,1000
+41,Headphones,Electronics,2000
+42,Sofa,Furniture,25000
+43,Desk,Furniture,15000
+44,Plants,Decor,500
+45,Clocks,Decor,1000
+46,Drinks,Beverages,150
+47,Snacks,Food,50
+48,Sunglasses,Accessories,1000
+49,Wallets,Accessories,800
+50,Exercise Equipment,Fitness,5000

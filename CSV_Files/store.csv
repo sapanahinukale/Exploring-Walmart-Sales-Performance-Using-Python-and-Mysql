@@ -1,0 +1,51 @@
+StoreID,StoreName,Address,City,State,ZipCode
+1,Walmart Supercenter,123 Main St,Anytown,CA,12345
+2,Walmart Neighborhood Market,456 Elm St,Smallville,NY,54321
+3,Walmart Supercenter,789 Oak St,Rural Town,TX,67890
+4,Walmart Supercenter,101 Pine St,Big City,FL,98765
+5,Walmart Supercenter,202 Maple St,Little Village,OH,54321
+6,Walmart Supercenter,303 Cedar St,Uptown,WA,13579
+7,Walmart Supercenter,404 Birch St,Downtown,IL,24680
+8,Walmart Supercenter,505 Walnut St,West End,MA,86420
+9,Walmart Supercenter,606 Pineapple St,East Side,CO,97531
+10,Walmart Supercenter,707 Orange St,Northside,GA,31415
+11,Walmart Supercenter,808 Peach St,Southtown,MI,27182
+12,Walmart Supercenter,909 Lemon St,Central City,PA,12345
+13,Walmart Supercenter,101 Cherry St,Beachside,NC,54321
+14,Walmart Supercenter,202 Grape St,Metro City,SC,67890
+15,Walmart Supercenter,303 Banana St,Suburbia,LA,98765
+16,Walmart Supercenter,404 Avocado St,City Center,TX,54321
+17,Walmart Supercenter,505 Watermelon St,Outskirts,NY,13579
+18,Walmart Supercenter,606 Papaya St,Farmland,CA,24680
+19,Walmart Supercenter,707 Kiwi St,Countryside,FL,97531
+20,Walmart Supercenter,808 Pineapple St,Shoreline,WA,31415
+21,Walmart Supercenter,909 Mango St,Hometown,IL,27182
+22,Walmart Supercenter,101 Lemon St,Speedway,MA,12345
+23,Walmart Supercenter,202 Orange St,Farmtown,CO,54321
+24,Walmart Supercenter,303 Apple St,Cityville,GA,67890
+25,Walmart Supercenter,404 Pear St,Valley City,MI,98765
+26,Walmart Supercenter,505 Blueberry St,Harborside,PA,13579
+27,Walmart Supercenter,606 Strawberry St,Mountaintop,NC,24680
+28,Walmart Supercenter,707 Raspberry St,Lakeside,SC,97531
+29,Walmart Supercenter,808 Blackberry St,Prairieland,LA,31415
+30,Walmart Supercenter,909 Cranberry St,Bayview,CA,27182
+31,Walmart Supercenter,101 Grapefruit St,Island City,TX,12345
+32,Walmart Supercenter,202 Lime St,Pacific Coast,NY,54321
+33,Walmart Supercenter,303 Tangerine St,Golden Gate,WA,67890
+34,Walmart Supercenter,404 Guava St,Sunnyvale,IL,98765
+35,Walmart Supercenter,505 Persimmon St,Riverfront,MA,13579
+36,Walmart Supercenter,606 Fig St,Meadowland,CO,24680
+37,Walmart Supercenter,707 Plum St,Fruitville,FL,97531
+38,Walmart Supercenter,808 Pomegranate St,Apple Valley,GA,31415
+39,Walmart Supercenter,909 Mango St,Hometown,MI,27182
+40,Walmart Supercenter,101 Lemon St,Speedway,PA,12345
+41,Walmart Supercenter,202 Orange St,Farmtown,NC,54321
+42,Walmart Supercenter,303 Apple St,Cityville,SC,67890
+43,Walmart Supercenter,404 Pear St,Valley City,LA,98765
+44,Walmart Supercenter,505 Blueberry St,Harborside,TX,54321
+45,Walmart Supercenter,606 Strawberry St,Mountaintop,NY,13579
+46,Walmart Supercenter,707 Raspberry St,Lakeside,WA,31415
+47,Walmart Supercenter,808 Blackberry St,Prairieland,IL,27182
+48,Walmart Supercenter,909 Cranberry St,Bayview,MA,12345
+49,Walmart Supercenter,101 Grapefruit St,Island City,CO,54321
+50,Walmart Supercenter,202 Lime St,Pacific Coast,FL,97531
